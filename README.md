@@ -1,6 +1,6 @@
 - 👋 Oi, Sou @MarcioEmanuel.
 - 👀 Estou interessado em aprender mais sobre programação, e adquirir experiência profissional no segmento.
-- 🌱 Atualmente estou aprendento desenvolvimento WEB utilizando HTML, CSS, JS, ReactJS, JQuery e alguns Frameworks como Bootstrap.
+- 🌱 Atualmente estou aprendento desenvolvimento WEB utilizando HTML, CSS, JS, ReactJS, JQuery e alguns Frameworks como Bootstrap. Possuo um bom conhecimentos em outras linguagens   como Java, C, C++ e C Shaarp.
 - 💞️ Estou procurando colaborar compartilhando meus projetos para ajudar e inspirar colegas, assim como me inspiraram a entrar na área.
 - 📫 Como chegar até mim: https://www.linkedin.com/in/marciopadua26/ , https://www.instagram.com/m.emanuel26/
 
